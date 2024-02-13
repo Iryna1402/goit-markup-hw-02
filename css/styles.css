@@ -23,7 +23,7 @@ body {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16667;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
@@ -51,6 +51,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  font-style: normal
   color: #434455;
 }
 
@@ -62,10 +63,11 @@ body {
 .main-title {
   font-weight: 700;
   font-size: 56px;
-  line-height: 1.07143;
+  line-height: 1.07;
   letter-spacing: 0.02em;
+  text-align: center;
   color: #fff;
-  background: #2e2f42;
+
 }
 
 .service-btn {
@@ -83,11 +85,11 @@ body {
 /*Section Benefits*/
 
 .section-title {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
+  font-weight:500;
+  font-size:20px;
+  line-height:1.2;
+  letter-spacing:0.02em;
+  color:#2e2f42;
 }
 
 .benefits-list-text {
@@ -101,10 +103,12 @@ body {
 .section-title {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
+  text-align: center;
   color: #2e2f42;
+  background-color: #F4F4FD
 }
 
 .team-list-fullname {
@@ -120,6 +124,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  background-color: #FFFFFF
 }
 
 /*Section Portfolio*/
@@ -127,8 +132,9 @@ body {
 .portfolio-name {
   font-weight: 500;
   font-size: 20px;
-  line-height: 1.2;
+  line-height: 1.11;
   letter-spacing: 0.02em;
+  text-align: center;
   color: #2e2f42;
 }
 
@@ -145,11 +151,12 @@ body {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16667;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
 }
+
 
 .logo-part-footer {
   color: #f4f4fd;
@@ -161,5 +168,5 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
-  background: #2e2f42;
+  background-color:#2e2f42;
 }
