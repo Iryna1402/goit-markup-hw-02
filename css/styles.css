@@ -51,8 +51,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  font-style: normal
-  color: #434455;
+  font-style: normal;
 }
 
 .contact-list-link:hover,
@@ -67,7 +66,6 @@ body {
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
-
 }
 
 .service-btn {
@@ -85,11 +83,11 @@ body {
 /*Section Benefits*/
 
 .section-title {
-  font-weight:500;
-  font-size:20px;
-  line-height:1.2;
-  letter-spacing:0.02em;
-  color:#2e2f42;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
 .benefits-list-text {
@@ -108,7 +106,7 @@ body {
   text-transform: capitalize;
   text-align: center;
   color: #2e2f42;
-  background-color: #F4F4FD
+  background-color: #f4f4fd;
 }
 
 .team-list-fullname {
@@ -124,7 +122,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  background-color: #FFFFFF
+  background-color: #ffffff;
 }
 
 /*Section Portfolio*/
@@ -157,7 +155,6 @@ body {
   color: #4d5ae5;
 }
 
-
 .logo-part-footer {
   color: #f4f4fd;
 }
@@ -168,5 +165,5 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
-  background-color:#2e2f42;
+  background-color: #2e2f42;
 }
